@@ -39,11 +39,9 @@ Aplikasi Penghitung Diskon ini adalah aplikasi desktop sederhana untuk menghitun
 **2210010043**
 
 ## Demo
-![Demo Aplikasi]()
+![Demo Aplikasi](img/AplikasiPenghitungDiskon.gif)
 
 
 ## Catatan
-- Pastikan menggunakan Java JDK terbaru untuk menjalankan aplikasi ini.
-- Jika menggunakan IDE seperti NetBeans, pastikan semua pustaka GUI telah diatur dengan benar.
 - Hanya masukkan angka pada kolom **Harga Asli** untuk menghindari kesalahan input.
 
