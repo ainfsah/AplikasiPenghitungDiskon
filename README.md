@@ -3,7 +3,7 @@
 
 
 ## Deskripsi Aplikasi
-Aplikasi Penghitung Diskon ini adalah aplikasi desktop sederhana untuk menghitung potongan harga dengan diskon tambahan berdasarkan kupon dan pilihan diskon dari slider atau dropdown. Aplikasi ini memudahkan pengguna dalam menghitung harga akhir setelah diskon diterapkan, baik melalui kupon maupun diskon tambahan.
+Aplikasi Penghitung Diskon ini adalah aplikasi desktop sederhana untuk menghitung potongan harga dengan diskon tambahan berdasarkan kupon dan pilihan diskon dari slider atau combobox. Aplikasi ini memudahkan pengguna dalam menghitung harga akhir setelah diskon diterapkan, baik melalui kupon maupun diskon tambahan.
 
 ## Fitur Utama
 - **Validasi Kupon Diskon**: Mendukung kupon seperti `DISKON10`, `DISKON20`, `DISKON50` untuk memberikan diskon berdasarkan kode yang dimasukkan.
